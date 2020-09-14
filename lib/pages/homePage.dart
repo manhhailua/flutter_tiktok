@@ -132,6 +132,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
     var searchPage = SearchPage(
       onPop: tkController.animateToMiddle,
     );
+
     var header = tabBarType == TikTokPageTag.home
         ? TikTokHeader(
             onSearch: () {
@@ -190,6 +191,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
               // video
               Widget currentVideo = Center(
                 child: FijkView(
+                  fit: FijkFit.fitHeight,
                   player: player,
                   color: Colors.black,
                   panelBuilder: (_, __, ___, ____, _____) => Container(),
