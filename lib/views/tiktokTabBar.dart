@@ -1,6 +1,6 @@
 
-import 'package:flutter_tiktok/style/style.dart';
-import 'package:flutter_tiktok/views/selectText.dart';
+import 'package:no_pets_no_life/style/style.dart';
+import 'package:no_pets_no_life/views/selectText.dart';
 import 'package:flutter/material.dart';
 
 enum TikTokPageTag {

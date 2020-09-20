@@ -1,5 +1,5 @@
-import 'package:flutter_tiktok/style/style.dart';
-import 'package:flutter_tiktok/views/tikTokVideoGesture.dart';
+import 'package:no_pets_no_life/style/style.dart';
+import 'package:no_pets_no_life/views/tikTokVideoGesture.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 

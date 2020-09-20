@@ -1,7 +1,7 @@
-import 'package:flutter_tiktok/pages/msgDetailListPage.dart';
-import 'package:flutter_tiktok/style/style.dart';
-import 'package:flutter_tiktok/views/tilTokAppBar.dart';
-import 'package:flutter_tiktok/views/userMsgRow.dart';
+import 'package:no_pets_no_life/pages/msgDetailListPage.dart';
+import 'package:no_pets_no_life/style/style.dart';
+import 'package:no_pets_no_life/views/tilTokAppBar.dart';
+import 'package:no_pets_no_life/views/userMsgRow.dart';
 import 'package:flutter/material.dart';
 import 'package:tapped/tapped.dart';
 

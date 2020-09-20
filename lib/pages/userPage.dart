@@ -1,6 +1,6 @@
-import 'package:flutter_tiktok/pages/userDetailPage.dart';
-import 'package:flutter_tiktok/style/style.dart';
-import 'package:flutter_tiktok/views/topToolRow.dart';
+import 'package:no_pets_no_life/pages/userDetailPage.dart';
+import 'package:no_pets_no_life/style/style.dart';
+import 'package:no_pets_no_life/views/topToolRow.dart';
 import 'package:flutter/material.dart';
 import 'package:tapped/tapped.dart';
 

@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:flutter_tiktok/style/style.dart';
+import 'package:no_pets_no_life/style/style.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 

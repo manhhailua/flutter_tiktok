@@ -1,5 +1,5 @@
-import 'package:flutter_tiktok/style/style.dart';
-import 'package:flutter_tiktok/views/tikTokVideoButtonColumn.dart';
+import 'package:no_pets_no_life/style/style.dart';
+import 'package:no_pets_no_life/views/tikTokVideoButtonColumn.dart';
 import 'package:flutter/material.dart';
 import 'package:tapped/tapped.dart';
 

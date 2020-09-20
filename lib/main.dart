@@ -1,5 +1,5 @@
-import 'package:flutter_tiktok/pages/homePage.dart';
-import 'package:flutter_tiktok/style/style.dart';
+import 'package:no_pets_no_life/pages/homePage.dart';
+import 'package:no_pets_no_life/style/style.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Tiktok',
+      title: 'No Pets No Life',
       theme: ThemeData(
         brightness: Brightness.dark,
         hintColor: Colors.white,

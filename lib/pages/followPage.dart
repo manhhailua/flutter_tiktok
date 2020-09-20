@@ -1,13 +1,13 @@
-import 'package:flutter_tiktok/style/style.dart';
-import 'package:flutter_tiktok/views/tikTokCommentBottomSheet.dart';
-import 'package:flutter_tiktok/views/tikTokVideo.dart';
-import 'package:flutter_tiktok/views/tilTokAppBar.dart';
+import 'package:no_pets_no_life/style/style.dart';
+import 'package:no_pets_no_life/views/tikTokCommentBottomSheet.dart';
+import 'package:no_pets_no_life/views/tikTokVideo.dart';
+import 'package:no_pets_no_life/views/tilTokAppBar.dart';
 import 'package:flutter/material.dart';
 import 'package:safemap/safemap.dart';
 import 'package:tapped/tapped.dart';
 
 /// 单独修改了bottomSheet组件的高度
-import 'package:flutter_tiktok/other/bottomSheet.dart' as CustomBottomSheet;
+import 'package:no_pets_no_life/other/bottomSheet.dart' as CustomBottomSheet;
 
 class FollowPage extends StatefulWidget {
   @override

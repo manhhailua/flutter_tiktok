@@ -1,15 +1,15 @@
-import 'package:flutter_tiktok/mock/video.dart';
-import 'package:flutter_tiktok/pages/cameraPage.dart';
-import 'package:flutter_tiktok/pages/followPage.dart';
-import 'package:flutter_tiktok/pages/searchPage.dart';
-import 'package:flutter_tiktok/pages/userPage.dart';
-import 'package:flutter_tiktok/views/tikTokCommentBottomSheet.dart';
-import 'package:flutter_tiktok/views/tikTokHeader.dart';
-import 'package:flutter_tiktok/views/tikTokScaffold.dart';
-import 'package:flutter_tiktok/views/tikTokVideo.dart';
-import 'package:flutter_tiktok/views/tikTokVideoButtonColumn.dart';
-import 'package:flutter_tiktok/views/tikTokVideoPlayer.dart';
-import 'package:flutter_tiktok/views/tiktokTabBar.dart';
+import 'package:no_pets_no_life/mock/video.dart';
+import 'package:no_pets_no_life/pages/cameraPage.dart';
+import 'package:no_pets_no_life/pages/followPage.dart';
+import 'package:no_pets_no_life/pages/searchPage.dart';
+import 'package:no_pets_no_life/pages/userPage.dart';
+import 'package:no_pets_no_life/views/tikTokCommentBottomSheet.dart';
+import 'package:no_pets_no_life/views/tikTokHeader.dart';
+import 'package:no_pets_no_life/views/tikTokScaffold.dart';
+import 'package:no_pets_no_life/views/tikTokVideo.dart';
+import 'package:no_pets_no_life/views/tikTokVideoButtonColumn.dart';
+import 'package:no_pets_no_life/views/tikTokVideoPlayer.dart';
+import 'package:no_pets_no_life/views/tiktokTabBar.dart';
 import 'package:fijkplayer/fijkplayer.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -18,7 +18,7 @@ import 'package:safemap/safemap.dart';
 import 'msgPage.dart';
 
 /// 单独修改了bottomSheet组件的高度
-import 'package:flutter_tiktok/other/bottomSheet.dart' as CustomBottomSheet;
+import 'package:no_pets_no_life/other/bottomSheet.dart' as CustomBottomSheet;
 
 class HomePage extends StatefulWidget {
   @override

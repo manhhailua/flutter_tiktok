@@ -1,5 +1,5 @@
 
-import 'package:flutter_tiktok/mock/video.dart';
+import 'package:no_pets_no_life/mock/video.dart';
 import 'package:flutter/material.dart';
 import 'package:fijkplayer/fijkplayer.dart';
 

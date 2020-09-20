@@ -1,4 +1,4 @@
-package com.example.flutter_tiktok
+package com.nopetsnolife
 
 import io.flutter.embedding.android.FlutterActivity
 
